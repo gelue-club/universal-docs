@@ -1,0 +1,7 @@
+- [函数式编程](https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B8%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)
+- 使用 [ECMAScript 6](http://es6-features.org/) 编写
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- 工具函数使用 [Lodash](Lodash)、[Async](http://caolan.github.io/async/) 等
+- 测试驱动

@@ -1,0 +1,1 @@
+- 使用 [Swagger](http://swagger.io/) 定义开放接口
