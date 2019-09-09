@@ -1,0 +1,46 @@
+{
+  "name": "universal-docs",
+  "version": "0.0.0",
+  "description": "软件通用文档。",
+  "scripts": {},
+  "git": {
+    "core.editor": "code"
+  },
+  "gitignore": [
+    "macOS",
+    "Windows",
+    "Linux",
+    "Node",
+    "VisualStudioCode",
+    "SublimeText",
+    "CVS",
+    "Diff",
+    "Vim",
+    "TortoiseGit",
+    "Diff",
+    "Patch",
+    "Java",
+    "Kotlin",
+    "Maven",
+    "Eclipse",
+    "JetBrains",
+    "NetBeans",
+    "PuTTY",
+    "Patch",
+    "NotepadPP",
+    "SlickEdit",
+    "Snap",
+    "JBoss4",
+    "JBoss6"
+  ],
+  "repository": {
+    "url": "git@github.com:gelue-club/universal-docs.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/gelue-club/universal-docs",
+  "bugs": "https://github.com/gelue-club/universal-docs/issues",
+  "private": false,
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

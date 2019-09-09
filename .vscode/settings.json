@@ -1,0 +1,184 @@
+{
+  "window.zoomLevel": 0,
+  "zenMode.restore": true,
+  "git.ignoreLimitWarning": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "terminal.integrated.rendererType": "canvas",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontFamily": "Hack",
+  "terminal.integrated.scrollback": 500,
+  "terminal.integrated.confirmOnExit": true,
+  "editor.links": false,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Hack",
+  "editor.cursorStyle": "line",
+  "editor.minimap.enabled": true,
+  "editor.letterSpacing": 1,
+  "editor.dragAndDrop": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.formatOnSave": false,
+  "editor.wordWrapColumn": 80,
+  "css.validate": false,
+  "css.lint.emptyRules": "ignore",
+  "markdown.preview.fontSize": 12,
+  "markdown.extension.toc.githubCompatibility": true,
+  "markdown.extension.toc.updateOnSave": false,
+  "workbench.colorTheme": "Quiet Light",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.sideBar.location": "right",
+  "javascript.validate.enable": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "onWindowChange",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.har": true,
+    "**/.nyc_output": true,
+    "**/node_modules": true,
+    "**/data": true,
+    "**/dump.rdb": true
+  },
+  "atomKeymap.promptV3Features": true,
+  "explorer.confirmDragAndDrop": false,
+  "sync.gist": "7817831a489392a8ff81dbf62a3a0416",
+  "todohighlight.keywords": [
+    {
+      "text": "TODO:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px"
+    },
+    {
+      "text": "START",
+      "color": "#000",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#fff"
+    },
+    {
+      "text": "DECISION",
+      "color": "#000",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#2ed573"
+    },
+    {
+      "text": "PROCESS",
+      "color": "#000",
+      "border": "1px solid #fff",
+      "borderRadius": "3px"
+    },
+    {
+      "text": "交互",
+      "color": "#000",
+      "border": "1px solid #fff",
+      "borderRadius": "3px"
+    },
+    {
+      "text": "ASYNC PROCESSs",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#005cc5"
+    },
+    {
+      "text": "FINISH",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#2f3542"
+    },
+    {
+      "text": "FIXME:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px"
+    },
+    {
+      "text": "PERFOMANCE:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#EA514E"
+    },
+    {
+      "text": "PENDING:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#005cc5"
+    },
+    {
+      "text": "WORKFLOW:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#2ed573"
+    },
+    {
+      "text": "USABILITY:",
+      "color": "#000",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#ced6e0"
+    },
+    {
+      "text": "EXPANDABILITY:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#2f3542"
+    },
+    {
+      "text": "SUMMARY:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#2f3542"
+    },
+    {
+      "text": "LOGIC:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#B0B6BC"
+    },
+    {
+      "text": "DEBUG:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#B0B6BC"
+    },
+    {
+      "text": "ATTENTION:",
+      "color": "#fff",
+      "border": "1px solid #2f3542",
+      "borderRadius": "3px",
+      "backgroundColor": "#2f3542"
+    },
+    {
+      "text": "QUESTION:",
+      "color": "#fff",
+      "border": "1px solid #fff",
+      "borderRadius": "3px",
+      "backgroundColor": "#fc8458"
+    }
+  ],
+  "todohighlight.include": [
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.html",
+    "**/*.php",
+    "**/*.css",
+    "**/*.scss",
+    "**/*.md"
+  ]
+}
